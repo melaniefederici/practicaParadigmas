@@ -7,6 +7,7 @@ object tomarVino {
     }
 }
 
+// cambiooooooooooo
 class JuntarseEnElAgora {   //inherits Filosofo 
     const otroFilosofo
 
