@@ -34,6 +34,7 @@ class ColoradoConPeluca inherits Colorado {
     override method darRemateGracioso (unaTematica) {
         super(unaTematica)
         puntosEstrella += 1
+        gracia += 1
     }
 }
 
